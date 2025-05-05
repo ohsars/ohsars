@@ -5,7 +5,7 @@
  <img align="right" src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" alt="bg" /> 
  -->
 
- <p>Marvelous is a frontend web developer with over 3 years of experience transforming static designs to interactive and responsive websites. He possess impressive skills in HTML, CSS, JavaScript, React, Tailwind CSS. He is transitioning intoto fullstack web development and currently learning Laravel and NodeJS. <br /> <br /> He is a Graduate Member, Nigeria Society of Engineers (GMNSE) and is a problem solver and pursues user satisfaction from creating webpages and products that provide solutions to the world at large.
+ <p>Marvelous is a frontend web developer with over 3 years of experience transforming static designs to interactive and responsive websites. He possess impressive skills in HTML, CSS, JavaScript, React, Tailwind CSS, with little experience with Python and mysql,  and currently learning Laravel and NodeJS. He is actively learning backend engineering so as to attain his goal as a fullstack web developer. <br /> <br /> He is a Graduate Member, Nigeria Society of Engineers (GMNSE) and is a problem solver and pursues user satisfaction from creating webpages and products that provide solutions to the world at large.
 
 </p>
 
@@ -32,5 +32,9 @@
 <br />
 <br />
 
+<!--
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ohsars&show_icons=true&locale=en&layout=compact" alt="ohsars" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ohsars&show_icons=true&locale=en" alt="ohsars" /></p>
+
+-->
