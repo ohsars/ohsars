@@ -5,9 +5,13 @@
  <img align="right" src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" alt="bg" /> 
  -->
 
+ <p>Marvelous is a frontend web developer with over 3 years of experience transforming static designs to interactive and responsive websites. He possess impressive skills in HTML, CSS, JavaScript, React, Tailwind CSS. He is transitioning intoto fullstack web development and currently learning Laravel and NodeJS. <br /> <br /> He is a Graduate Member, Nigeria Society of Engineers (GMNSE) and is a problem solver and pursues user satisfaction from creating webpages and products that provide solutions to the world at large.
+
+</p>
+
 <p align="center"> <a href="https://twitter.com/_marvelus" target="blank"><img src="https://img.shields.io/twitter/follow/_marvelus?logo=twitter&style=for-the-badge" alt="_marvelus" /></a> </p>
 
-<h6 align="center">🌱 I’m currently learning <b>NEXTJS</b> </h7>
+<h6 align="center">🌱 I’m currently learning <b>Laravel</b> </h7>
 
 
 <h3 align="center">Connect with me:</h3>
